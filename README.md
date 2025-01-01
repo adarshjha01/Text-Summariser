@@ -1,2 +1,9 @@
-# Text-Summariser
-This project is a **Text Summarizer** that uses Hugging Face's `distilbart-cnn-12-6` model and Gradio for a simple web interface. It allows users to input text and receive a concise summary. The model efficiently condenses lengthy content, providing key insights in a shorter format for easier understanding.
+# Text Summarizer
+
+This project is a **Text Summarizer** built using the Hugging Face `transformers` library and Gradio for a simple web interface. The tool leverages the pre-trained `distilbart-cnn-12-6` model to generate concise summaries of long texts. Users can input any text, and the model will generate a shortened version that captures the key points.
+
+## Features
+- Summarize any input text into a concise summary.
+- Built with Hugging Face’s powerful `distilbart-cnn-12-6` model.
+- Interactive web interface created using Gradio.
+- Easy-to-use and intuitive for anyone to access.
